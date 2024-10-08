@@ -4,7 +4,6 @@
 
 ### 📚Atualmente Estudando:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=black)
-
 ![SAP](https://img.shields.io/badge/SAP-MM?style=plastic&logo=SAP&logoColor=hsl&color=%235C7CFA)
 
 
