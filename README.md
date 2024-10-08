@@ -4,8 +4,7 @@
 
 ### 📚Atualmente Estudando:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-Web3?style=plastic&logo=Solidity&logoColor=hsl&color=%238a2be2)
-![Web3](https://img.shields.io/badge/Web%203.0-Code?style=plastic&logo=Web3&logoColor=hsl&color=%23ff0)
+
 ![SAP](https://img.shields.io/badge/SAP-MM?style=plastic&logo=SAP&logoColor=hsl&color=%235C7CFA)
 
 
@@ -35,6 +34,8 @@
 ### Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?styleborder_radius&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?styleborder_radius&logo=visual-studio-code&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-Web3?style=plastic&logo=Solidity&logoColor=hsl&color=%238a2be2)
+![Web3](https://img.shields.io/badge/Web%203.0-Code?style=plastic&logo=Web3&logoColor=hsl&color=%23ff0)
 
 ### Sistema operacional
 ![Windows](https://img.shields.io/badge/Windows-000?styleborder_radius&logo=windows&logoColor=2CA5E0)
