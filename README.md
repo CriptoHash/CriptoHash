@@ -24,9 +24,9 @@
 
 ### Redes
 [![DIO.me](https://img.shields.io/badge/DIO.me-000?style=plastic&logo=dio-me)](https://www.dio.me/users/paulo_rl_lunardi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-lunardi-b82516b2/)
+//[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-lunardi-b82516b2/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://www.discord.com/channels/lunardi_s.a./)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/Lunaardi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/cripto_hash)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/lunaardi)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=plastic&logo=twitter)](https://twitter.com/Cripto_Hash)
 
