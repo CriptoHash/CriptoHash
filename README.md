@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=timeGradient&text=Bem%20Vindo%20ao%20meu%20Github!&section=header&reversal=false&fontSize=42&fontAlign=50&fontAlignY=32&stroke=5&strokeWidth=10&animation=twinkling&textBg=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=timeGradient&text=Welcome%20to%20my%20Github!&section=header&reversal=false&fontSize=42&fontAlign=50&fontAlignY=32&stroke=5&strokeWidth=10&animation=twinkling&textBg=false"/>
 
 ## Cripto Hash
 
