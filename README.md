@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=timeGradient&text=Bem%20Vindo%20ao%20meu%20Github!&section=header&reversal=false&fontSize=42&fontAlign=50&fontAlignY=32&stroke=5&strokeWidth=10&animation=twinkling&textBg=false"/>
 
-## Paulo Lunardi
+## Cripto Hash
 
 ### 📚Atualmente Estudando:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-Web3?style=plastic&logo=Solidity&logoColor=hsl&color=%238a2be2)
 ![SAP](https://img.shields.io/badge/SAP-MM?style=plastic&logo=SAP&logoColor=hsl&color=%235C7CFA)
 
 
@@ -23,18 +23,17 @@
 
 
 ### Redes
-[![DIO.me](https://img.shields.io/badge/DIO.me-000?style=plastic&logo=dio-me)](https://www.dio.me/users/paulo_rl_lunardi)
-//[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-lunardi-b82516b2/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white)](https://www.discord.com/channels/lunardi_s.a./)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/cripto_hash)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/lunaardi)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/cripto_hash)
 [![Twitter](https://img.shields.io/badge/Twitter-000?style=plastic&logo=twitter)](https://twitter.com/Cripto_Hash)
+[![Threads](https://img.shields.io/badge/Twitter-000?style=plastic&logo=twitter)](https://twitter.com/cripto_hash)
 
 ### Habilidades
 ![Git](https://img.shields.io/badge/GIT-E44C30?styleborder_radius&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?styleborder_radius&logo=visual-studio-code&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-Web3?style=plastic&logo=Solidity&logoColor=hsl&color=%238a2be2)
 ![Web3](https://img.shields.io/badge/Web%203.0-Code?style=plastic&logo=Web3&logoColor=hsl&color=%23ff0)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=black)
 
 ### Sistema operacional
 ![Windows](https://img.shields.io/badge/Windows-000?styleborder_radius&logo=windows&logoColor=2CA5E0)
