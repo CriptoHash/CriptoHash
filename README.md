@@ -25,8 +25,8 @@
 ### Social Media:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/CriptoHash)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/cripto_hash)
-[![X](https://img.shields.io/badge/Twitter-000?style=plastic&logo=X)](https://x.com/Cripto_Hash)
-[![Threads](https://img.shields.io/badge/Twitter-000?style=plastic&logo=threads)](https://www.threads.net/@cripto_hash)
+[![X](https://img.shields.io/badge/X-000?style=plastic&logo=X)](https://x.com/Cripto_Hash)
+[![Threads](https://img.shields.io/badge/Threads-000?style=plastic&logo=threads)](https://www.threads.net/@cripto_hash)
 
 ### Hard Skills:
 ![Git](https://img.shields.io/badge/GIT-E44C30?styleborder_radius&logo=git&logoColor=white)
