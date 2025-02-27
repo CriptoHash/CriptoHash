@@ -40,15 +40,15 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?styleborder_radius&logo=ubuntu&logoColor=2CA5E0)
 
 ### Current Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lunaardi&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CriptoHash&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lunaardi&bg_color=000&border_color=30A3DC&title_color=1589F0&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CriptoHash&bg_color=000&border_color=30A3DC&title_color=1589F0&text_color=FFF)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Lunaardi&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CriptoHash&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lunaardi}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CriptoHash}/count.svg" /></p>
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&fontAlignY=33&section=footer"/>
