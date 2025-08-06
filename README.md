@@ -48,9 +48,13 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CriptoHash&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/CriptoHash/count.svg" /></p>
-<br></div>
+  <br>
+  <p align="centre"><b>Visitantes</b></p>  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/CriptoHash/count.svg" />
+  </p>
+  <br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&fontAlignY=33&section=footer"/>
 
