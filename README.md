@@ -47,14 +47,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CriptoHash&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-<div align="center">
-  <br>
-  <p align="center"><b>Visitantes</b></p>  
-  <p align="center">
-    <img src="https://profile-counter.glitch.me/CriptoHash/count.svg" />
-  </p>
-  <br>
-</div>
+![Visitor Badge](https://komarev.com/ghpvc/?username=CriptoHash&label=Visitors&color=30A3DC&style=flat-square)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&fontAlignY=33&section=footer"/>
