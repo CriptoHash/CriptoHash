@@ -49,8 +49,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CriptoHash&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=CriptoHash.CriptoHash&style=flat-square&color=39FF14&text=Visitors)
-
+![Visitor Count](https://img.shields.io/badge/Visitors-1234-brightgreen?style=for-the-badge&logo=ghost)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&fontAlignY=33&section=footer"/>
 
