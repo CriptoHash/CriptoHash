@@ -40,7 +40,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?styleborder_radius&logo=ubuntu&logoColor=2CA5E0)
 
 ### Current Status
-*![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CriptoHash&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CriptoHash&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CriptoHash&theme=tokyonight&show_icons=true)
 
 
