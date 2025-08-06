@@ -49,9 +49,9 @@
 
 <div align="center">
   <br>
-  <p align="centre"><b>Visitantes</b></p>  
+  <p align="center"><b>Visitantes</b></p>  
   <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/CriptoHash/count.svg" />
+    <img src="https://profile-counter.glitch.me/CriptoHash/count.svg" />
   </p>
   <br>
 </div>
