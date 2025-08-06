@@ -42,7 +42,9 @@
 ### Current Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CriptoHash&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-!
+### Top Language
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CriptoHash&bg_color=000&border_color=30A3DC&title_color=1589F0&text_color=FFF)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CriptoHash&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
