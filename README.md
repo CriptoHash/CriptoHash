@@ -41,6 +41,8 @@
 
 ### Current Status
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CriptoHash&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CriptoHash&theme=tokyonight&show_icons=true)
+
 
 ### Top Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CriptoHash&bg_color=000&border_color=30A3DC&title_color=1589F0&text_color=FFF)
