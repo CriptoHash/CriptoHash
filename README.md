@@ -1,55 +1,81 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=timeGradient&text=Welcome%20to%20my%20Github!&section=header&reversal=false&fontSize=42&fontAlign=50&fontAlignY=32&stroke=5&strokeWidth=10&animation=twinkling&textBg=false"/>
+<!-- Hacker Style GitHub README - CriptoHash -->
 
-## Cripto Hash
+<h1 align="center">👾 CriptoHash | ABAP & Blockchain Dev 👾</h1>
 
-### 📚Currently Studying:
-![Solidity](https://img.shields.io/badge/Solidity-Web3?style=plastic&logo=Solidity&logoColor=hsl&color=%238a2be2)
-![SAP](https://img.shields.io/badge/SAP-MM?style=plastic&logo=SAP&logoColor=hsl&color=%235C7CFA)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-building-informational?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/code-abap-green?style=flat-square&logo=sap" />
+  <img src="https://img.shields.io/badge/web3-ready-purple?style=flat-square&logo=ethereum" />
+</p>
 
+---
 
-### 👨‍💻🗃️Database Analyst:
-![Oracle](https://img.shields.io/badge/ORACLE-Data%20Base?style=plastic&logo=ORACLE&logoColor=hsl&labelColor=%23FF0000&color=%237a8373)
-![SSAS](https://img.shields.io/badge/SSAS-Microsoft?style=plastic&logo=Microsoft%20SQL%20Server&logoColor=%23FF0000&labelColor=%23000000&color=%23808080)
-![SSIS](https://img.shields.io/badge/SSIS-Microsoft?style=plastic&logo=Microsoft%20SQL%20Server&logoColor=%23FF0000&labelColor=%23000000&color=%23808080)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=blue)
+Iniciando análise do repositório...
+Conectando com a blockchain...
+Executando parse de linguagens no repositório CriptoHash...
 
-### 👨‍💻📊BI Analyst in Development:
-![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
-![PowerQuery](https://img.shields.io/badge/PowerQuery-F9A21C?style=plastic&)
-![MicroStrategy](https://img.shields.io/badge/MicroStrategy-BI?style=plastic&logo=Microstrategy&logoColor=%23FF0000&labelColor=%23ffffff&color=%23ffffff&link=https%3A%2F%2Fwww.microstrategy.com%2F)
-![Static Badge](https://img.shields.io/badge/Tableau-BI?style=plastic&logo=Tableau&logoColor=%23add8e6&labelColor=%230000ff&color=%230000ff&link=https%3A%2F%2Fwww.tableau.com%2F)
+css
+Copiar
+Editar
 
+## 📊 Linguagens mais utilizadas (últimos 12 meses)
 
-### Social Media:
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)](https://github.com/CriptoHash)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/cripto_hash)
-[![X](https://img.shields.io/badge/X-000?style=plastic&logo=X)](https://x.com/Cripto_Hash)
-[![Threads](https://img.shields.io/badge/Threads-000?style=plastic&logo=threads)](https://www.threads.net/@cripto_hash)
+![Pie Chart](https://quickchart.io/chart?c={
+  type:'pie',
+  data:{
+    labels:['ABAP','Python','Solidity','SQL','JavaScript'],
+    datasets:[{
+      data:[32,26,18,14,10],
+      backgroundColor:['#39FF14','#FCEE0A','#8A2BE2','#4682B4','#FF4500']
+    }]
+  },
+  options:{
+    plugins:{
+      legend:{
+        labels:{
+          color:'lime',
+          font:{size:14, family:"Courier New"}
+        }
+      }
+    },
+    backgroundColor:'#000000'
+  }
+})
 
-### Hard Skills:
-![Git](https://img.shields.io/badge/GIT-E44C30?styleborder_radius&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?styleborder_radius&logo=visual-studio-code&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-Web3?style=plastic&logo=Solidity&logoColor=hsl&color=%238a2be2)
-![Web3](https://img.shields.io/badge/Web%203.0-Code?style=plastic&logo=Web3&logoColor=hsl&color=%23ff0)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=black)
+Linguagens detectadas: ABAP, Python, Solidity, SQL, JS
+Status: Ativo | Sync OK com GitHub API
+Timestamp: 2025-08-06 19:42:11
 
-### Operating System:
-![Windows](https://img.shields.io/badge/Windows-000?styleborder_radius&logo=windows&logoColor=2CA5E0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?styleborder_radius&logo=ubuntu&logoColor=2CA5E0)
+yaml
+Copiar
+Editar
 
-### Current Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CriptoHash&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-### Top Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CriptoHash&bg_color=000&border_color=30A3DC&title_color=1589F0&text_color=FFF)
+## 🧠 Sobre Mim
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CriptoHash&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+```bash
+> Nome: Paulo Lunardi
+> Stack: SAP S/4HANA | ABAP | Web3
+> Missão: Conectar sistemas legados com tecnologias do futuro
+> Status: Explorando integração de criptomoedas em soluções SAP
+💾 Projetos em Progresso
+ 🔄 Integração de pagamentos cripto com SAP Fiori
 
-<div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CriptoHash}/count.svg" /></p>
-<br></div>
+ ⚙️ API Gateway para stablecoins (USDC/DAI) no SAP
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&fontAlignY=33&section=footer"/>
+ 🧪 Painel GitHub Hacker Edition
+
+📡 Contato
+bash
+Copiar
+Editar
+> GitHub: github.com/CriptoHash
+> LinkedIn: linkedin.com/in/seu-perfil
+> Email: criptohash@protonmail.com
+"Hack the legacy. Build the future."
+
+ruby
+Copiar
+Editar
+>> EOF_
