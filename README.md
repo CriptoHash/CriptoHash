@@ -47,7 +47,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CriptoHash&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=CriptoHash&label=Visitors&color=30A3DC&style=flat-square)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CriptoHash&theme=tokyonight&show_icons=true)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&fontAlignY=33&section=footer"/>
